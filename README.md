@@ -1,4 +1,5 @@
 # site
 Site for stakeholders
 
-I, PETER JAMES WILLIAM ANDREWS HAVE CHANGED THE READ ME FILE FOR MY PROJECT
+This project is a website for my stakeholder
+I have changed the README file
