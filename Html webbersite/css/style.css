@@ -1,5 +1,5 @@
 body {
-	background-image: linear-gradient(#408545 , #16243b);
+	background-image: linear-gradient(#1e375e , #090c14);
 	height: auto;
             background-attachment: fixed;
             background-size: cover;
@@ -10,14 +10,36 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
+a:link {
+  color: #872932;
+  background-color: transparent;
+  text-decoration: none;
+}
 
+a:visited {
+  color: #a34e57;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bf3b48;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #d13242;
+  background-color: transparent;
+  text-decoration: underline;
+}
 ul {
   position: fixed;
   top: 0;
   width: 100%;
 }
 li {
-  border-right: 1px solid #408545;
+  border-right: 1px solid #1e375e;
 }
 
 li:last-child {
