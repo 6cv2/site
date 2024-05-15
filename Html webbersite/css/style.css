@@ -1,5 +1,5 @@
 body {
-	background-image: linear-gradient(#1e375e , #090c14);
+	background-image: linear-gradient(#ffffff ,#ffffff );
 	height: auto;
             background-attachment: fixed;
             background-size: cover;
@@ -11,19 +11,19 @@ ul {
   background-color: #333;
 }
 a:link {
-  color: #872932;
+  color: #cc0e20;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #a34e57;
+  color: #cc0e20;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #bf3b48;
+  color: #990e1b;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -39,7 +39,7 @@ ul {
   width: 100%;
 }
 li {
-  border-right: 1px solid #1e375e;
+  border-right: 1px solid #cfcdc8;
 }
 
 li:last-child {
