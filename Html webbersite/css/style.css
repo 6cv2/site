@@ -23,15 +23,11 @@ a:visited {
 }
 
 a:hover {
-  color: #990e1b;
-  background-color: transparent;
-  text-decoration: underline;
+	border-bottom: 3px solid red;
 }
 
 a:active {
-  color: #d13242;
-  background-color: transparent;
-  text-decoration: underline;
+	border-bottom: 3px solid red;
 }
 ul {
   position: fixed;
